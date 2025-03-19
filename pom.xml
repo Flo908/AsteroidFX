@@ -116,5 +116,6 @@
     </profile>
   </profiles>
   <modules>
+    <module>Core</module>
   </modules>
 </project>
