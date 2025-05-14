@@ -11,8 +11,7 @@
     <maven.compiler.target>1.9</maven.compiler.target>
   </properties>
   <dependencyManagement>
-    <dependencies/>
-  </dependencyManagement>
+    <dependencies/>  </dependencyManagement>
   <build>
     <plugins>
       <plugin>
@@ -117,5 +116,9 @@
   </profiles>
   <modules>
     <module>Core</module>
+      <module>Common</module>
+      <module>Bullet</module>
+    <module>Player</module>
+    <module>Common</module>
   </modules>
 </project>
