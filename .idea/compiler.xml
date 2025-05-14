@@ -9,5 +9,8 @@
         <module name="Core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AsteroidsFX (1)" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
