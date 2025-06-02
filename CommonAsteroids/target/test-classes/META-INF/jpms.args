@@ -1,0 +1,4 @@
+--patch-module
+CommonAsteroids=_
+--add-reads
+CommonAsteroids=ALL-UNNAMED
