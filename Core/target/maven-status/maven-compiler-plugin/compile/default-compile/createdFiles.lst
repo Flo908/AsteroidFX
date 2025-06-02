@@ -1,2 +1,5 @@
+dk\sdu\cbse\Core\Game.class
+dk\sdu\cbse\Core\Main.class
+dk\sdu\cbse\Core\ModuleConfig.class
 module-info.class
-dk\sdu\cbse\App.class
+dk\sdu\cbse\Core\Game$1.class
